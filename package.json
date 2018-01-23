@@ -1,0 +1,25 @@
+{
+  "name": "ml-cozy-places",
+  "version": "1.0.0",
+  "description": "Machine learning image classifier. Classify cozy places. ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node $npm_package_main",
+    "debug": "node $npm_package_main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ml",
+    "machine",
+    "learning"
+  ],
+  "author": "Alonso Araujo",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "download": "^6.2.5",
+    "moment": "^2.20.1",
+    "request-promise": "^4.2.2",
+    "snoowrap": "^1.15.2"
+  }
+}
