@@ -1,4 +1,4 @@
-#Reddit Miner
+# Reddit Miner
 
 Before running add Reddit's api keys by creating a file 'keys.js' in root with the following JSON object
 
