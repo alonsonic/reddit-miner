@@ -1,6 +1,6 @@
 # Reddit Miner
 
-## Adding Reddit Keys
+### Adding Reddit Keys
 Before running add Reddit's api keys by creating a file 'keys.js' in root with the following JSON object
 
 ```js
@@ -18,7 +18,7 @@ const keys = {
 module.exports = keys;
 ```
 
-## Run miner
+### Run miner
 
 ```
 npm start
